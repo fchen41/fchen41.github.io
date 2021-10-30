@@ -7,18 +7,72 @@ output:
     theme: cerulean
 ---
 
-### Biostatistics MS Student
+### Biography
+</script>
+<br/><font size = "3">
+Current graduate student in Biostatistics at Columbia University who is expected to graduate in Summer 2023. A motivated and organized employee who can schedule multiple tasks with high efficiency with a proven history of successful work with cross-functional teams. Seeking to leverage my data-analysis skills and cross-intersectional background to effectively fill a Summer Internship role.   
+<font/>
+<br/>
+<font size = "2">
+*Here is my latest photo after visiting Princeton University. My next trip would be Iceland and Canada, hopefully! My target is to travel as many places as possible while I am still a student, and try to discover and see a different life. * <font/>
+<br/><br/><br/>
+<div class="row">
+<div class="col-xs-12 col-sm-5 text-center">
+<img src="./image/my_photo.png" style="width:65%">
+<div/>
+<br/>
+<br/>
+<div class="col-xs-12 col-sm-7">
+<font size = "5">
+**These days...**
+<font/>
+<font size = "3">  
+* A new Columbia Mailoman School Biostatistics MS Student  
+* Struggling in Probability    
+* A huge progress in R language  
+* Prepare to start a brand new career pathway  
+* Hope to be a master of Python, R and SAS
+<font/>
+</div>
 
-```{r}
 
-```
+<br/><br/><br/>
+
+<br/><br/><br/>
+
+<br/><br/>
+
+<center><font size = "5">
+**My Past 26 year...**    <font size = "3">  
+* In 1995, I was born as a 1 minute older sister
+<br/>
+<img src="./image/my_twin_sister.jpeg" style = "width:50%">  
+* In 2016, I finished all my undergraduate requirements in Zhejiang University. 
+<br/>
+<img src="./image/bachelor.jpeg" style = "width:50%">  
+* In 2017, I graduated from UIUC for my master degree. 
+<br/>
+<img src="./image/uiuc_master.jpeg" style = "width:50%">  
+* In 2021, I quit my job and returned to study biostatistics. 
+<img src="./image/work.jpeg" style = "width:50%">  
+<br/><font/>
+
+_Study again is somewhat challenge_, <font size = "5">**BUT**...<font/>  <br/>
+<font size = "3">
+* I have traveled to 5 different countries  
+* I went back to China this year and saw cute pandas  
+<img src="./image/panda.jpeg" style = "width:50%">   
+* I have helped to take care 5 cats  
+<img src="./image/cat.jpeg" style = "width:50%">  
+* I could do funny faces  
+<img src="./image/emoji.jpeg" style = "width:50%"> <font>
+<br/><br/>
+<center><font size = "5">
+**And that is me!**  
+_I may not be perfect, but I am perfectly me!_  <font/>
+  
+<img src="./image/peace_and_love.jpeg" style = "width:65%"> 
+<center/>
 
 
-And I can put all kinds of stuff on it!  
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-<img src="https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif" style="width:75%">
-
-[this](google.com)
-
-[about](about.html)#link to other page
