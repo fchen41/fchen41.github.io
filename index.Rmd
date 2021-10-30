@@ -1,0 +1,24 @@
+---
+title: "Personal Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+### Biostatistics MS Student
+
+```{r}
+
+```
+
+
+And I can put all kinds of stuff on it!  
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+<img src="https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif" style="width:75%">
+
+[this](google.com)
+
+[about](about.html)#link to other page
