@@ -1,0 +1,32 @@
+---
+title: "Plotly"
+flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+This page is to create a flexdashboard using plotly for that includes at least three distinct plot types. I am going to focus on the dataset from _NYC Restaurant Inspections_.   
+
+```{r message=FALSE}
+library(tidyverse)
+library(p8105.datasets)
+library(flexdashboard)
+library(plotly)
+```
+
+```{r}
+data(rest_inspec)
+# Clean the data. 
+rest_insp_base = 
+  rest_inspec %>% 
+  filter(cuisine_description == "Asian", 
+         !is.na(grade), 
+         critical_flag == "Critical", 
+         ) %>% 
+  select(dba, inspection_date, phone, score, street, grade, violation_code) %>% 
+  arrange(dba)
+
+rest_insp_base 
+
+```
+

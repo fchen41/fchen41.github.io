@@ -1,5 +1,9 @@
 ---
 title: "About ME!"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 <p style="font-family: times, serif; font-size:15pt; font-style:italic">
 **NAME**: Fengjia Chen  
