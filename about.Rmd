@@ -5,6 +5,8 @@ output:
     toc: true
     toc_float: true
 ---
+
+
 <p style="font-family: times, serif; font-size:15pt; font-style:italic">
 **NAME**: Fengjia Chen  
 **ADRESS**: 50 Haven Ave 0810, NY 10032, US  
@@ -13,4 +15,8 @@ output:
 **EMAIL**: "fc2691@cumc.columbia.edu"  
 **DATE**: "`r format(Sys.Date(), '%B %Y')`"  
 </p>
+<span style="font-size:18pt; color: darkblue; font-style:italic"><center>
+### MY RESUME
+</span> <center/>
 <img src="./image/resume_fc_2021.jpg" style = "width:9100%"> 
+
